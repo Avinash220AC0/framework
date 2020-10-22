@@ -6,6 +6,8 @@ public class loginpage {
 	
 	public WebDriver Driver;
 	
+	public Webdriver Driver;
+	
 	
 
 }
